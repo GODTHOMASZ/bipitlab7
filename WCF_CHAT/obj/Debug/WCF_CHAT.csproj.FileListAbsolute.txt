@@ -1,0 +1,14 @@
+C:\Users\THOMAS\source\repos\WCF\WCF\obj\Debug\WCF_CHAT.csprojAssemblyReference.cache
+C:\Users\THOMAS\source\repos\WCF\WCF\obj\Debug\WCF_CHAT.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\source\repos\WCF\WCF\bin\Debug\WCF_CHAT.dll.config
+C:\Users\THOMAS\source\repos\WCF\WCF\bin\Debug\WCF_CHAT.dll
+C:\Users\THOMAS\source\repos\WCF\WCF\bin\Debug\WCF_CHAT.pdb
+C:\Users\THOMAS\source\repos\WCF\WCF\obj\Debug\WCF_CHAT.dll
+C:\Users\THOMAS\source\repos\WCF\WCF\obj\Debug\WCF_CHAT.pdb
+C:\Users\THOMAS\source\repos\WCF\WCF_CHAT\bin\Debug\WCF_CHAT.dll.config
+C:\Users\THOMAS\source\repos\WCF\WCF_CHAT\bin\Debug\WCF_CHAT.dll
+C:\Users\THOMAS\source\repos\WCF\WCF_CHAT\bin\Debug\WCF_CHAT.pdb
+C:\Users\THOMAS\source\repos\WCF\WCF_CHAT\obj\Debug\WCF_CHAT.csprojAssemblyReference.cache
+C:\Users\THOMAS\source\repos\WCF\WCF_CHAT\obj\Debug\WCF_CHAT.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\source\repos\WCF\WCF_CHAT\obj\Debug\WCF_CHAT.dll
+C:\Users\THOMAS\source\repos\WCF\WCF_CHAT\obj\Debug\WCF_CHAT.pdb
